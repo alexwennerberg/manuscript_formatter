@@ -2,11 +2,12 @@
 title: My Story
 shorttitle: Story
 forename: Alex
-surename: Wennerberg
+surname: Wennerberg
 address: 123 Cool Guy St
 addressb: Gotham City, NY 12345
 phone: (123) 867-5309
-email: alexwennerberg @gmail.com
+email: alexwennerberg
+emailhost: gmail.com
 ---
 Lorem ipsum *dolor* **sit** amet---consectetur--adipiscing elit. Mauris ullamcorper sapien libero, id ornare sapien congue a. Suspendisse vel arcu urna. Mauris vitae sollicitudin sapien. Fusce pharetra pulvinar vulputate. Ut vel pellentesque enim, nec luctus libero. Aenean vestibulum odio quis ante finibus, id sagittis felis porta. Aenean urna neque, consectetur sed libero a, mollis vulputate mi. Nam eu porttitor arcu. Duis vel quam sed orci fermentum sollicitudin. Ut ac diam dui.
 

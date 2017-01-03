@@ -90,7 +90,7 @@
   \def\addressb{$if(addressb)$$addressb$$endif$}
   \def\phone{$if(phone)$$phone$$endif$}
   \def\email{$if(email)$$email$$endif$}
-
+  \def\emailhost{$if(emailhost)$$emailhost$$endif$}
   % This template supports both short story and novel manuscripts. The default
   % behaviour is to assume short story format,  but setting the 'novel' variable
   % to true will enable the alternative formatting.
@@ -460,7 +460,7 @@
     \address\\
     \addressb\\
     \phone\\
-    \email\\
+    \email @\emailhost
     \end{singlespace}
 
     % Then leave space of one-third page-height before the title and by-line:
